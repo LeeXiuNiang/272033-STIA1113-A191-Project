@@ -402,7 +402,7 @@ So, there's 6 classes in this project and each class consist of methods.
     END
     
 # Flowchart
-![Main_FlowChart](/Main_FlowChart.jpeg)
+![Main_FlowChart1](/Main_FlowChart1.png)
 ![NextDayDelivery_FlowChart](/NextDayDelivery_FlowChart.png)
 ![SameDayDelivery_FlowChart](/SameDayDelivery_FlowChart.png)
 ![Prepaid_BoxEnvelope_FlowChart](/Prepaid_BoxEnvelope_FlowChart.png)
